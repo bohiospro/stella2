@@ -1,0 +1,32 @@
+#: locale=es
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Sin Título 8
+
+## Media
+
+### Título
+panorama_B8AC0BF4_A969_6CEA_41D7_3AF21993A622.label = 3
+panorama_B8AC6E5C_A969_27DA_41B9_13F560C38AB0.label = 4
+panorama_B8AC8AD0_A968_EF2A_41A5_2CDB0FD976D8.label = h2 2
+panorama_B8ACC67F_A969_67D6_41E1_4E5465F6782D.label = h1 b
+panorama_B8AD53E4_A969_3CEA_41D3_B39305EA6116.label = h1 2
+panorama_B8AD7FD0_A968_E529_41CF_0828D283C703.label = h2 3
+panorama_B8AD8487_A969_3B37_41E4_B473A1269C49.label = h2 1
+panorama_B8AD9178_A969_1DDA_41D4_2F72EFFD5385.label = 5
+panorama_B8AE3108_A96B_3D3A_41DD_7FC1B6EAB94D.label = h2 b
+panorama_B8AEF2BC_A96B_1F59_41E4_54C1D206F705.label = h2 c
+panorama_B8AF9176_A969_1DD6_41C6_0BC9B0EF274C.label = h1 c
+panorama_B8AFAC67_A969_6BF6_41C8_647CE1DAA23F.label = 2
+panorama_B8AFCCB3_A969_EB6E_41CD_04FCA11247D3.label = h1 1
+panorama_BB553AD9_A969_2CDA_41CB_22096E602BB2.label = 1
+
+## Acción
+
+### PDF
+PopupPDFBehaviour_BC588DF4_A937_E4EA_41CA_24EC00BF9555.url = files/info_es.pdf
+PopupPDFBehaviour_BD269426_A937_7B76_41E0_BCE03AA22180.url = files/info_es.pdf
